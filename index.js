@@ -19,3 +19,5 @@ client.on("message", message => {
 })
 
 client.login(process.env.token)
+
+//Coded By Technical Ehan
